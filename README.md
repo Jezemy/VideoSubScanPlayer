@@ -1,0 +1,2 @@
+# VideoSubScanPlayer
+利用CNN卷积神经网络来实现的可以识别内嵌视频下方字幕的视频播放器
