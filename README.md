@@ -19,7 +19,8 @@ UI界面使用的是PYQT，深度学习框架是TensorFlow
 - 支持将字幕导出
 
 # 运行环境需求
-- TensorFlow 2.0 (原版本是1.4版本，已将主要代码改成兼容1的代码，tf.compat.v1.xxx模式)
+- python3.6以上
+- TensorFlow 2.0 以上(原版本是1.4版本，已将主要代码改成兼容1的代码，tf.compat.v1.xxx模式)
 - OpenCV
 - Pyqt
 - Numpy
@@ -44,6 +45,8 @@ UI界面使用的是PYQT，深度学习框架是TensorFlow
 
 
 # 使用说明
+下载这个[模型](https://pan.baidu.com/s/16ZYLcQlcK9N6J5TNSE_gHg)，提取码是**elm4**, 解压后放入VideoSubScanPlayer/model/ 下
+
 安装好依赖库后，在VideoSubScanPlayer文件夹下运行代码
 ```python
 python VideoPlayer.py
